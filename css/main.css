@@ -1,0 +1,19 @@
+ button{
+    padding: 20px 50px;
+    background-color: blue;
+    color: white;
+    margin-bottom: 30px;
+    
+}
+button:hover {
+    background-color:darkgreen;
+}
+.inner h1{
+    
+        font-family: "Anton", sans-serif;
+        font-weight: 700;
+        font-size: 80px;
+        padding: 10px 20px;
+      
+      
+}
